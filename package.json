@@ -2,6 +2,9 @@
   "engines": {
   "node": "22.x"
 },
+"scripts": {
+  "start": "node app.js"
+},
   "name": "stayspot",
   "version": "1.0.0",
   "main": "index.js",
