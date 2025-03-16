@@ -1,16 +1,14 @@
 {
   "engines": {
-  "node": "22.x"
-},
-"scripts": {
-  "start": "node app.js"
-},
+    "node": "22.x"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "name": "stayspot",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
