@@ -47,16 +47,12 @@ Built with **React**, **Node.js**, **Express**, and **MongoDB**, it provides a r
 ```bash
 git clone https://github.com/yourusername/stayspot.git
 cd stayspot
+
 2️⃣ Install Dependencies
 Backend
-
-bash
-Copy code
 cd backend
 npm install
-Frontend
 
-bash
-Copy code
+Frontend
 cd ../frontend
 npm install
